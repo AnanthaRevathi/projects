@@ -1,0 +1,17 @@
+[
+  {
+    "title": "E-commerce Platform",
+    "description": "A full-stack e-commerce application using React.js and Spring Boot.",
+    "details": "Features user authentication, product management, shopping cart functionality, and uses MySQL for database management."
+  },
+  {
+    "title": "School Website",
+    "description": "A React-based website for a school.",
+    "details": "A responsive website designed for a school, built using React.js, featuring a student portal, gallery section, and Google Maps integration."
+  },
+  {
+    "title": "Expense Tracker",
+    "description": "A personal finance tracker built with React.",
+    "details": "A personal finance application allowing users to monitor income and expenses with an intuitive dashboard."
+  }
+]
